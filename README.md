@@ -1,10 +1,10 @@
-Run this program on Windows using g++ compiler
+Run this program using g++ compiler \
 Step 1: Run this command to compile the file \
         ```
         g++ main.cpp -o assembler
         ```
 
-Step 2: Run the executable file assembler.exe using the following command 
+Step 2: Run the executable file **assembler.exe** using the following command 
         assembler.exe \
         ```
         <INPUT FILE> <OUTPUT FILE> <LISTING FILE>
